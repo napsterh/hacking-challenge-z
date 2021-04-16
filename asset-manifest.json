@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hacking-challenge-z/static/css/main.1675478e.chunk.css",
+    "main.js": "/hacking-challenge-z/static/js/main.89a84886.chunk.js",
+    "main.js.map": "/hacking-challenge-z/static/js/main.89a84886.chunk.js.map",
+    "runtime-main.js": "/hacking-challenge-z/static/js/runtime-main.aff773cf.js",
+    "runtime-main.js.map": "/hacking-challenge-z/static/js/runtime-main.aff773cf.js.map",
+    "static/css/2.150d169a.chunk.css": "/hacking-challenge-z/static/css/2.150d169a.chunk.css",
+    "static/js/2.cae9d3ee.chunk.js": "/hacking-challenge-z/static/js/2.cae9d3ee.chunk.js",
+    "static/js/2.cae9d3ee.chunk.js.map": "/hacking-challenge-z/static/js/2.cae9d3ee.chunk.js.map",
+    "static/js/3.5f01baba.chunk.js": "/hacking-challenge-z/static/js/3.5f01baba.chunk.js",
+    "static/js/3.5f01baba.chunk.js.map": "/hacking-challenge-z/static/js/3.5f01baba.chunk.js.map",
+    "index.html": "/hacking-challenge-z/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/hacking-challenge-z/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1675478e.chunk.css.map": "/hacking-challenge-z/static/css/main.1675478e.chunk.css.map",
+    "static/js/2.cae9d3ee.chunk.js.LICENSE.txt": "/hacking-challenge-z/static/js/2.cae9d3ee.chunk.js.LICENSE.txt",
+    "static/media/atropello.81009f0a.svg": "/hacking-challenge-z/static/media/atropello.81009f0a.svg",
+    "static/media/autito.734c5e44.svg": "/hacking-challenge-z/static/media/autito.734c5e44.svg",
+    "static/media/auto.e82c3677.png": "/hacking-challenge-z/static/media/auto.e82c3677.png",
+    "static/media/App.scss": "/hacking-challenge-z/static/media/bgHome.edb0b689.svg",
+    "static/media/choque.efab2cca.svg": "/hacking-challenge-z/static/media/choque.efab2cca.svg",
+    "static/media/llantaRobada.b950ba28.svg": "/hacking-challenge-z/static/media/llantaRobada.b950ba28.svg",
+    "static/media/person-thanks.5dab20bb.png": "/hacking-challenge-z/static/media/person-thanks.5dab20bb.png",
+    "static/media/vehicular.654c4611.svg": "/hacking-challenge-z/static/media/vehicular.654c4611.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff773cf.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.cae9d3ee.chunk.js",
+    "static/css/main.1675478e.chunk.css",
+    "static/js/main.89a84886.chunk.js"
+  ]
+}
