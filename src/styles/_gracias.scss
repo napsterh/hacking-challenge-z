@@ -1,0 +1,110 @@
+.grid-gracias{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 200px 75px;
+}
+
+.home {
+    padding: 0px;
+    margin: 0px;
+}
+
+.descripcion-gracias {
+    position: relative;
+    padding: 6rem;
+    margin-top: 2rem;
+    font-family: $fuenteTitulo;
+    background-image: url('../assets/bg-gracias.png');
+    height: 500px;
+    width: 350px;
+    border-radius: 0px 0px 100px 0px;
+    &__familia {
+        position: absolute;
+        margin-left: 10rem;
+        margin-top: -15px;
+    }
+    &__familia img {
+        max-width: 250px;
+    }
+    &__logo {
+        margin-top: -7rem;
+        margin-bottom: 3rem;
+    }
+    &__titulo {
+        font-family: $fuenteTitulo;
+        color: $blanco-rimac;
+        margin: 35px 0;
+        font-weight: 100;
+        font-size: 40px;
+    }
+    &__titulo span{
+        font-weight: 900;
+    }
+    & ul {
+        margin-bottom: 4rem;
+    }
+    &__derechos{
+        color: $blanco-rimac;
+        margin-top: 6rem;
+        font-family: $fuenteSubtitulo;
+        font-weight: 300;
+    }
+}
+
+
+
+.formulario-gracias {
+    display: grid;
+    margin-left: 10rem;
+    justify-content: end;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    &__gracias {
+        justify-self: end;
+        margin-bottom: 20px;
+        margin-top:50px
+    }
+    &__titulo{
+        margin-bottom: 0px;
+        font-family: $fuenteTitulo;
+        font-size: 25px;
+        padding-top: 2rem;
+    }
+    &__subtitulo{
+        margin-top: 5px;
+        font-weight: 300;
+    }
+    &__color {
+        color: $rojo_rimac;
+    }
+
+}
+
+.formulario-gracias__form {
+    justify-self: self-start;
+    &__btn input{
+        width: 200px;
+        height: 50px;
+        outline: none;
+        border-radius: 5px;
+        cursor: pointer;
+        background-color: $rojo_rimac;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: 600;
+        margin: 10px 0;
+        transition: .5s;
+        font-family: $fuenteTitulo;
+        border: 3px solid #F0F2FA;
+    }
+    &__btn input:hover {
+        background-color: #C5CBE0;
+        border: none;
+        color: $blanco-rimac;
+    }
+}
+
+
+.formulario-gracias__form__btn {
+    text-align: start;
+}
